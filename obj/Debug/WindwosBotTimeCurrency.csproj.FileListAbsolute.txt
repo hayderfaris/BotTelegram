@@ -1,0 +1,56 @@
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\WindwosBotTimeCurrency.exe.config
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\WindwosBotTimeCurrency.exe
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\WindwosBotTimeCurrency.pdb
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\MetroFramework.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\Telegram.Bot.dll
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\bin\Debug\Telegram.Bot.xml
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\obj\Debug\WindwosBotTimeCurrency.csprojAssemblyReference.cache
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\obj\Debug\WindwosBotTimeCurrency.Form1.resources
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\obj\Debug\WindwosBotTimeCurrency.Properties.Resources.resources
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\obj\Debug\WindwosBotTimeCurrency.csproj.GenerateResource.cache
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\obj\Debug\WindwosBotTimeCurrency.csproj.CoreCompileInputs.cache
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\obj\Debug\WindwosBotTimeCurrency.csproj.CopyComplete
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\obj\Debug\WindwosBotTimeCurrency.exe
+C:\Users\Ameer\source\repos\WindwosBotTimeCurrency\obj\Debug\WindwosBotTimeCurrency.pdb
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\WindwosBotTimeCurrency.exe.config
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\WindwosBotTimeCurrency.exe
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\WindwosBotTimeCurrency.pdb
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\MetroFramework.Design.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\MetroFramework.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\Newtonsoft.Json.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Security.AccessControl.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\Telegram.Bot.dll
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\Newtonsoft.Json.xml
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Security.AccessControl.xml
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\bin\Debug\Telegram.Bot.xml
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\obj\Debug\WindwosBotTimeCurrency.csproj.AssemblyReference.cache
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\obj\Debug\WindwosBotTimeCurrency.Form1.resources
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\obj\Debug\WindwosBotTimeCurrency.Properties.Resources.resources
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\obj\Debug\WindwosBotTimeCurrency.csproj.GenerateResource.cache
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\obj\Debug\WindwosBotTimeCurrency.csproj.CoreCompileInputs.cache
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\obj\Debug\WindwosBotTimeCurrency.csproj.CopyComplete
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\obj\Debug\WindwosBotTimeCurrency.exe
+C:\Users\intel\Desktop\WindwosBotTimeCurrency-no Git\obj\Debug\WindwosBotTimeCurrency.pdb
